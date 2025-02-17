@@ -1,3 +1,3 @@
 # PKMT-Net
 
-The code will be uploaded once the paper is accepted.
+PKMT-Net: A pathological knowledge-inspired multi-scale transformer network for subtype prediction of lung cancer using histopathological images
